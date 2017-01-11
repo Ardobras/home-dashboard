@@ -1,8 +1,8 @@
 {
   "name": "home-dashboard",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "0.0.1",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Ardobras/home-dashboard/issues"
   },
-  "homepage": "https://github.com/Ardobras/home-dashboard#readme"
+  "homepage": "https://github.com/Ardobras/home-dashboard#readme",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "dark-sky": "^1.0.10",
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
 }
