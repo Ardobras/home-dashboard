@@ -1,0 +1,19 @@
+{
+  "name": "home-dashboard",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardobras/home-dashboard.git"
+  },
+  "author": "Keno Dressel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ardobras/home-dashboard/issues"
+  },
+  "homepage": "https://github.com/Ardobras/home-dashboard#readme"
+}
